@@ -1,3 +1,7 @@
+name: bestwebsiteever
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1021505
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Best Website EVER
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8602151
-  brandStrength: 1
-  lightness: 0.1057348
   brandColors:
     - '#0E0B06'
     - '#F3E0BD'
     - '#39565A'
     - '#E9B553'
     - '#BD6D16'
+  brandStrength: 1
+  lightness: 0.1057348
+  saturation: 0.8602151
   rhythmicContrast: 0.765233
-typography_spectrum: 0.1021505
-layout_spectrum: 1
-name: bestwebsiteever
+purpose: []
