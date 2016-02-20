@@ -1,14 +1,26 @@
-layout_spectrum: 0.178812
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.816322
+  saturation: 0.8602151
   brandStrength: 1
-  lightness: 0.4137989
-  rhythmicContrast: 0.0883581
+  lightness: 0.1057348
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-typography_spectrum: 0.3582117
+    - '#0E0B06'
+    - '#F3E0BD'
+    - '#39565A'
+    - '#E9B553'
+    - '#BD6D16'
+  rhythmicContrast: 0.765233
+typography_spectrum: 0.1021505
+layout_spectrum: 1
 name: bestwebsiteever
